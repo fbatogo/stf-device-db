@@ -15239,5 +15239,367 @@
       "type": "android",
       "ver": "4.4"
     }
+  },
+  "LG-H811": {
+    "carrier": {
+      "code": "tm",
+      "name": "T-Mobile (US)"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 1.44,
+      "name": "ARM Cortex-A53"
+    },
+    "date": "2015-04-01T15:00:00.000Z",
+    "display": {
+      "h": 2560,
+      "s": 5.5,
+      "w": 1440
+    },
+    "maker": {
+      "code": "lge",
+      "name": "LG Electronics"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "name": {
+      "id": "LG G4",
+      "long": "p1_tmo_us"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1.1"
+    }
+  },
+  "_One_M8": {
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/Other"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 2.3,
+      "name": "Qualcomm MSM8974AB Snapdragon 801"
+    },
+    "date": "2014-03-01T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.0,
+      "w": 1080
+    },
+    "maker": {
+      "code": "ht",
+      "name": "HTC"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "HTC One M8",
+      "long": "htc_europe"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.2"
+    }
+  },
+  "_Desire_HD_A9191": {
+    "carrier": {
+        "code": "te",
+        "name": "Telus"
+    },
+    "cpu": {
+        "cores": 1,
+        "freq": 1.0,
+        "name": "Qualcomm MSM8255 Snapdragon S2"
+    },
+    "date": "2010-09-01T15:00:00.000Z",
+    "display": {
+        "h": 800,
+        "s": 4.3,
+        "w": 480
+    },
+    "maker": {
+        "code": "ht",
+        "name": "HTC"
+    },
+    "memory": {
+        "ram": 768,
+        "rom": 1536
+    },
+    "name": {
+        "id": "Desire HD",
+        "long": "htc_ace"
+    },
+    "os": {
+        "type": "android",
+        "ver": "2.2"
+    }
+  },
+  "KFTT": {
+    "carrier": {
+        "code": "_",
+        "name": "MVNO/Other"
+    },
+    "cpu": {
+        "cores": 2,
+        "freq": 1.0,
+        "name": "Texas Instruments OMAP 4430"
+    },
+    "date": "2011-11-15:T15:00:00.000Z",
+    "display": {
+        "h": 1024,
+        "s": 7.0,
+        "w": 600
+    },
+    "maker": {
+        "name": "Amazon"
+    },
+    "memory": {
+        "ram": 512,
+        "rom": 8192
+    },
+    "name": {
+        "id": "Kindle Fire",
+        "long": "Kindle Fire"
+    },
+    "os": {
+        "type": "android",
+        "ver": "2.3.3"
+    }
+  },
+  "SAMSUNG-SM-N900A": {
+    "carrier": {
+        "code": "at",
+        "name": "AT&T"
+    },
+    "cpu": {
+        "cores": 4,
+        "freq": 2.3,
+        "name": "Qualcomm Krait 400"
+    },
+    "date": "2013-09-04T15:00:00.000Z",
+    "display": {
+        "h": 1920,
+        "s": 5.7,
+        "w": 1080
+    },
+    "maker": {
+        "code": "sc",
+        "name": "Samsung"
+    },
+    "memory": {
+        "ram": 3072,
+        "rom": 65536
+    },
+    "name": {
+        "id": "Galaxy Note 3",
+        "long": "hlteuc"
+    },
+    "os": {
+        "type": "android",
+        "ver": "4.3"
+    }
+  },
+  "LGLS740": {
+    "carrier": {
+        "code": "vg",
+        "name": "Virgin Mobile"
+    },
+    "cpu": {
+        "cores": 4,
+        "freq": 1.2,
+        "name": "Cortex-A7"
+    },
+    "date": "2014-03-01T15:00:00.000Z",
+    "display": {
+        "h": 960,
+        "s": 4.7,
+        "w": 540
+    },
+    "maker": {
+        "code": "lge",
+        "name": "LG Electronics"
+    },
+    "memory": {
+        "ram": 1024,
+        "rom": 8192
+    },
+    "name": {
+        "id": "LG Volt",
+        "long": "LG LS740"
+    },
+    "os": {
+        "type": "android",
+        "ver": "4.4.2"
+    }
+  },
+  "SM-G900T": {
+    "carrier": {
+        "code": "tm",
+        "name": "T-Mobile (US)"
+    },
+    "cpu": {
+        "cores": 4,
+        "freq": 2.5,
+        "name": "Krait 400"
+    },
+    "date": "2014-04-01T15:00:00.000Z",
+    "display": {
+        "h": 1920,
+        "s": 5.1,
+        "w": 1080
+    },
+    "maker": {
+        "code": "sc",
+        "name": "Samsung"
+    },
+    "memory": {
+        "ram": 2048,
+        "rom": 16384
+    },
+    "name": {
+        "id": "Galaxy S5",
+        "long": "Samsung Galaxy S5"
+    },
+    "os": {
+        "type": "android",
+        "ver": "4.4.2"
+    }
+  },
+  "_Tablet_S": {
+    "carrier": {
+        "code": "_",
+        "name": "Other/MVNO"
+    },
+    "cpu": {
+        "cores": 2,
+        "freq": 1.0,
+        "name": "Cortex-A9"
+    },
+    "date": "2011-09-01T15:00:00.000Z",
+    "display": {
+        "h": 1280,
+        "s": 9.4,
+        "w": 800
+    },
+    "maker": {
+        "code": "sny",
+        "name": "Sony"
+    },
+    "memory": {
+        "ram": 1024,
+        "rom": 16384
+    },
+    "name": {
+        "id": "Tablet S",
+        "long": "Sony Tablet S"
+    },
+    "os": {
+        "type": "android",
+        "ver": "3.1"
+    }
+  },
+  "PC36100": {
+    "carrier": {
+        "code": "spr",
+        "name": "Sprint"
+    },
+    "cpu": {
+        "cores": 1,
+        "freq": 1.0,
+        "name": "Scorpion"
+    },
+    "date": "2010-06-01T15:00:00.000Z",
+    "display": {
+        "h": 800,
+        "s": 4.3,
+        "w": 480
+    },
+    "maker": {
+        "code": "ht",
+        "name": "HTC"
+    },
+    "memory": {
+        "ram": 512,
+        "rom": 1024
+    },
+    "name": {
+        "id": "HTC Evo 4G",
+        "long": "HTC Evo 4G"
+    },
+    "os": {
+        "type": "android",
+        "ver": "2.1"
+    }
+  },
+  "SAMSUNG-SGH-I727": {
+    "carrier": {
+        "code": "at",
+        "name": "AT&T"
+    },
+    "cpu": {
+        "cores": 2,
+        "freq": 1.5,
+        "name": "Scorpion"
+    },
+    "date": "2011-11-01T15:00:00.000Z",
+    "display": {
+        "h": 800,
+        "s": 4.5,
+        "w": 480
+    },
+    "maker": {
+        "code": "sc",
+        "name": "Samsung"
+    },
+    "memory": {
+        "ram": 1024,
+        "rom": 16384
+    },
+    "name": {
+        "id": "Galaxy S II Skyrocket i727",
+        "long": "Samsung Galaxy S II Skyrocket i727"
+    },
+    "os": {
+        "type": "android",
+        "ver": "2.3.5"
+    }
+  },
+  "SGP311": {
+    "carrier": {
+        "code": "_",
+        "name": "Other/MVNO"
+    },
+    "cpu": {
+        "cores": 4,
+        "freq": 1.5,
+        "name": "Krait"
+    },
+    "date": "2013-02-01T15:00:00.000Z",
+    "display": {
+        "h": 1200,
+        "s": 10.1,
+        "w": 1920
+    },
+    "maker": {
+        "code": "sny",
+        "name": "Sony"
+    },
+    "memory": {
+        "ram": 2048,
+        "rom": 16384
+    },
+    "name": {
+        "id": "Xperia Tablet Z Wi-Fi",
+        "long": "Sony Xperia Tablet Z Wi-Fi"
+    },
+    "os": {
+        "type": "android",
+        "ver": "4.1.2"
+    }
   }
 }
